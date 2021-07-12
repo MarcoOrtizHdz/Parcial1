@@ -1,0 +1,36 @@
+html {
+    background-color: rgba(12, 83, 141, 0.329);
+}
+
+header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+img {
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#cita {
+    font-size: 15px;
+    font-family: Calibri;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    margin: 10px 0;
+}
+
+footer {
+    margin-top: 50px;
+}
